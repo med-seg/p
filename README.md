@@ -1,1 +1,1 @@
-# pancreas
+# pancreas segmentation in MRI
