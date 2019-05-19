@@ -2,7 +2,7 @@
 
 MATLAB code for [description of paper]
 
-by Hykoush Asaturyan, Barbara Villarini, E. Louise Thomas, Jimmy. D. Bell and Julie Fitzpatrick
+by Hykoush Asaturyan, Barbara Villarini, E. Louise Thomas, Jimmy. D. Bell and Julie Fitzpatrick.
 
 Please see [link to pdf file] for online access to PDF file.
 
