@@ -1,10 +1,10 @@
+**IMPORTANT**: You are encouraged to read this entire file and make necessary modifications to your code before program execution.
+
 MATLAB code for [description of paper]
 
 by Hykoush Asaturyan, Barbara Villarini, E. Louise Thomas, Jimmy. D. Bell and Julie Fitzpatrick
 
 Please see [link to pdf file] for online access to PDF file.
-
-**IMPORTANT**: You are encouraged to read this entire file and make necessary modifications to your code before program execution.
 
 This program was built using MATLAB R2017b and MATLAB R2018a, and employs the Deep Learning Toolbox, Statistics and Machine Learning Toolbox, Image Processing Toolbox and Computer Vision Toolbox.
 
