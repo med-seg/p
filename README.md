@@ -12,7 +12,7 @@ This program was built using MATLAB R2017b and MATLAB R2018a, and employs the De
 
 To initiate the training stage, modify and run "runFunction.m".
 
-**IMPORTANT TO NOTE:**  Please modify the following valiables below to suit image data file type, ground-truth (annotation) file type and options for training the deep learning model. Replace 'define' with appropriate value.
+**IMPORTANT TO NOTE:**  Please modify the following variables below to suit image data file type, ground-truth (annotation) file type and options for training the deep learning model. Replace 'define' with appropriate value.
 
 imWidth = 'define';
 
@@ -32,7 +32,7 @@ To initiate the training stage, modify and run one of the following files:
 
 **generate_limit_range_predictions.m** -  generate binary segmentation mapping using trained deep learning model across probability thresholds [0.05,0.95]. You will need to modify this file accordingly.
 
-**IMPORTANT TO NOTE:** Please modify the following valiables below to suit image data file type and ground-truth (annotation) file type. Replace 'define' with appropriate value.
+**IMPORTANT TO NOTE:** Please modify the following variables below to suit image data file type and ground-truth (annotation) file type. Replace 'define' with appropriate value.
 
 imWidth = 'define';
 
