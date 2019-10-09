@@ -4,7 +4,7 @@ MATLAB code for 'Advancing Pancreas Segmentation in Multi-protocol MRI Volumes u
 
 by Hykoush Asaturyan, Barbara Villarini, E. Louise Thomas, Jimmy. D. Bell and Julie Fitzpatrick.
 
-Please see [link to pdf file] for online access to PDF file.
+Please see https://doi.org/10.1007/978-3-030-32692-0_4 for online access to PDF file.
 
 This program was built using MATLAB R2017b and MATLAB R2018a, and employs the Deep Learning Toolbox, Statistics and Machine Learning Toolbox, Image Processing Toolbox and Computer Vision Toolbox.
 
