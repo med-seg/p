@@ -1,8 +1,8 @@
 **IMPORTANT**: You are encouraged to read this entire file and make necessary modifications to your code before program execution.
 
-MATLAB code for 'Advancing Pancreas Segmentation in Multi-protocol MRI Volumes using Hausdorff-Sine Loss Function'.
+MATLAB code for 'Advancing Pancreas Segmentation in Multi-protocol MRI Volumes using Hausdorff-Sine Loss Function'
 
-by Hykoush Asaturyan, Barbara Villarini, E. Louise Thomas, Jimmy. D. Bell and Julie Fitzpatrick.
+by Hykoush Asaturyan, E. Louise Thomas, Julie Fitzpatrick, Jimmy. D. Bell and Barbara Villarini.
 
 Please see https://doi.org/10.1007/978-3-030-32692-0_4 for online access to PDF file.
 
