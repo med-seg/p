@@ -26,7 +26,7 @@ batchSize = 'define'; % 1, 10
 
 **2) TESTING STAGE:**
 
-To initiate the training stage, modify and run one of the following files:
+To initiate the testing stage, modify and run one of the following files:
 
 **generate_predictions.m** -  generate binary segmentation mapping using trained deep learning model. You will need to modify this file accordingly.
 
