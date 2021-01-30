@@ -3,8 +3,8 @@
 
 % INPUTS:
 % image - 2D image (slice) to be processed
-% gain - controls the actual contrast
-% cutOff - represents (normalised) grey value about which contrast is modified.
+% gain (contrastLevel) - controls the actual contrast
+% cutOff (thresh) - normalised greyscale value about which contrast is modified.
 
 % OUTPUT:
 % enhanceImage - digitally contrast enhanced 2D image (slice)
